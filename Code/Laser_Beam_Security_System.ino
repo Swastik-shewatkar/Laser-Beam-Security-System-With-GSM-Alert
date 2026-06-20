@@ -12,7 +12,7 @@ bool beamWasCut = false;
 
 unsigned long startTime = 0;
 
-String phoneNumber = "+919021787467";
+String phoneNumber = "+91xxxxxxxxxx";
 
 void makeCall() {
 
